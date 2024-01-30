@@ -1,4 +1,4 @@
-# StockStream Web App by VAISHNAVI SHARMA & ROHIT MORE
+
 
 from matplotlib.pyplot import axis
 import streamlit as st  # streamlit library
